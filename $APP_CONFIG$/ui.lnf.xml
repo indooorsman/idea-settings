@@ -1,0 +1,20 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
+    <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="UISettings">
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
+    <option name="compactTreeIndents" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+  </component>
+</application>

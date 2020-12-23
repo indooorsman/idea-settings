@@ -1,0 +1,11 @@
+<application>
+  <component name="ProtobufSettings">
+    <option name="includePaths">
+      <list>
+        <option value="$USER_HOME$/workspace/common/src/go/src/vendor/github.com/grpc-ecosystem/grpc-gateway/third_party/googleapis" />
+        <option value="$USER_HOME$/workspace/common/src/go/src/vendor" />
+        <option value="$USER_HOME$/workspace/common/src/go/src/creative_service/proto" />
+      </list>
+    </option>
+  </component>
+</application>
