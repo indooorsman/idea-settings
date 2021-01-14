@@ -9,6 +9,10 @@
       <place disabled="true"><![CDATA[taggedString("sql")]]></place>
       <templateTag>sql</templateTag>
     </injection>
+    <injection language="SQL" injector-id="js">
+      <display-name>SQL update</display-name>
+      <place disabled="true"><![CDATA[jsLiteral().withStringValue(string().matchesBrics(" *UPDATE .* SET .*"))]]></place>
+    </injection>
     <injection language="TSQL" injector-id="js">
       <display-name>Transact-SQL declare</display-name>
       <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("[\"'`] *DECLARE +\\@.*[\"'`]?"))]]></place>
