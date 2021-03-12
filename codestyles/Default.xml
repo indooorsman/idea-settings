@@ -20,6 +20,7 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="IMPORT_SORT_MEMBERS" value="false" />
   </TypeScriptCodeStyleSettings>
   <VueCodeStyleSettings>
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="false" />
