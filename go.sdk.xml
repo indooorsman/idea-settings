@@ -1,9 +1,10 @@
 <application>
   <component name="GoSdkList">
-    <sdk-path>
+    <sdk-url>
       <set>
-        <option value="/usr/local/go" />
+        <option value="" />
+        <option value="file:///usr/local/go" />
       </set>
-    </sdk-path>
+    </sdk-url>
   </component>
 </application>
