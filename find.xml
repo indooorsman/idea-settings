@@ -15,7 +15,7 @@
     <mask>*.vue</mask>
     <mask>*.jsx</mask>
     <mask>*.css</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
