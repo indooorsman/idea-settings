@@ -4,6 +4,7 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pid" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
